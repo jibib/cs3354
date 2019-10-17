@@ -1,0 +1,17 @@
+1.	Set-up
+    a.	Create account with phone number and verification text
+    b.	Log into any device with app using phone number verifitcation
+2.	Contacts
+    a.	Add person by phone number and send request
+    b.	Accept add request
+    c.	Assign/Edit color for/to contact
+    d.	Set contact (This is the person all messages will be sent to unless changed)
+    e.	Delete person by phone number
+3.	Messages
+    a.	Send message to chosen contact
+    b.	Receive messages from all contacts
+    c.	View message history
+4.	Bracelet
+    a.	Vibrate and light up specific color when touch message is received
+    b.	Vibrate when touch message has been sent
+    c.	Pair/Unpair bracelet with phone/device
